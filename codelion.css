@@ -3,3 +3,11 @@ footer {
     background-color: black; /* 배경 색상 변경 */
     color: white; /* 글씨 색상 변경 */
 }
+
+.big-font {
+    font-size: 40px;
+}
+
+.small-font {
+    font-size: 20px;
+}
