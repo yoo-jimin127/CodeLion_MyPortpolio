@@ -15,3 +15,15 @@
 - H1 태그: Heading 1을 의미, H 옆 숫자는 1부터 숫자가 커질수록 글자 크기가 작아짐 - 제목을 작성할 때 주로 사용
 
 ### < 문서의 골격 >
+- ``` html > head > body > title > meta > div > a > script > link > img > span > p > li > ul > h1 > i ``` : 수많은 태그가 존재
+- ``` html ``` 태그 & ``` <!DOCTYPE html> ``` : html 문서에 꼭 써주는 태그
+    ``` 
+        <!DOCTYPE html>
+        <html>
+        </html>
+    ```
+- ``` <head> ``` 태그 : 문서의 정보를 담는 부분 -> 문서 작성자, 참고자료, 대표이미지, 키워드 검색 정보
+- ``` <body> ``` 태그 : html 문서의 모든 내용
+- ``` <html> ``` 태그는 크게 ```<head> <body> ``` 태그의 두 부분으로 나뉨
+- 영어 기반의 html 문서로 인해 한글을 쓰기 위해서는 ```<meta charset="UTF-8">``` : characterset을 meta 태그로 추가해주어야함
+- ```<title>``` 태그: 검색결과의 상단바에 뜨는 타이틀 ex) title 태그 내부에 작성한 내용이 그 페이지의 제목이 됨 - head태그 내부에 넣어주어야 함.
