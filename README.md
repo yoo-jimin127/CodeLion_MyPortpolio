@@ -90,3 +90,10 @@
 - ```line-height: 16px;```을 통해 줄 간 간격을 조절
 - 각 ```<p>``` 태그를 좌우정렬 하고 싶을 떄 -> ```text-align: left; text-align: right;```로 하면 다른 줄에서 정렬이 됨
     - ```float```를 사용 : 왼쪽, 오른쪽에 붙어서 동작
+- 글자가 겹쳐서 나오는 경우? : float는 html 상에서 둥둥 떠다님 -> 겹치지 않게 하고자 한다면 ```<div>```태그로 먼저 묶음
+    ```
+    .float-wrap {
+        overflow: hidden;
+    }
+    ```
+    - float가 다른 요소들과 겹치지 않게 하기 위해서는 div태그로 float가 적용된 요소를 먼저 묶고, ```overflow: hidden;```의 속성을 추가
