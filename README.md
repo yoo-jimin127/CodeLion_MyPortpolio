@@ -67,3 +67,16 @@
     - 0 : 그림자의 퍼짐정도
     - rgb(red, green, blue) : 0 ~ 255
     - rgba(): a - 0 ~ 1 사이의 투명도를 가진 값 (0:투명, 0.1: 10%, 1: 100%)
+
+### < 구글 웹 폰트 사용하기 >
+- css폰트에 ```@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');``` : Montserrat 폰트 추가
+-  ```* { }``` : 모든 태그에 해당 css를 적용 -> ```font-family: 'Montserrat';``` : 몬세라트 폰트를 적용
+- 기본 속성 값을 같도록 함
+    ```
+    body,h1,h2 {
+        margin: 0px;
+        padding: 0px;
+    }
+    ```
+- ```<section>``` 태그: division과 같은 기능, html 태그를 꾸며주기 위해 묶어주는 태그
+    - div를 묶어주는 역할도 함 ex) ```article```
