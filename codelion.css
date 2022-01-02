@@ -1,0 +1,5 @@
+footer {
+    text-align: center; /* 요소를 어디에 정렬할 것인지 - 콜론으로 구분, 세미콜론으로 마무리 */
+    background-color: black; /* 배경 색상 변경 */
+    color: white; /* 글씨 색상 변경 */
+}
