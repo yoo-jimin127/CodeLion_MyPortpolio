@@ -1,6 +1,6 @@
 footer {
     text-align: center; /* 요소를 어디에 정렬할 것인지 - 콜론으로 구분, 세미콜론으로 마무리 */
-    background-color: #121212; /* 배경 색상 변경 */
+    background-color: #1e1e1e; /* 배경 색상 변경 */
     color: #919191; /* 글씨 색상 변경 */
 }
 
@@ -20,4 +20,11 @@ footer {
     margin-right: auto;
     padding: 30px; /* 글자와 박스 사이의 간격을 줌 */
     margin: 30px; /* 박스가 화면에서 얼마나 떨어지게 할 것인지 */
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+}
+
+.name-text {
+    font-size: 17px;
+    color: #7c7c7c;
+    font-weight: bold; /* font의 굵기 */
 }
