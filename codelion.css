@@ -96,3 +96,13 @@ section {
     color: #282828;
     padding-left: 16px; /* 왼쪽만 padding을 줌으로써 들여쓰기 효과 */
 }
+
+.title-box {
+    text-align: right;
+
+}
+
+.sns-img {
+    width: 12px;
+    height: 12px;
+}
