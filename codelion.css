@@ -13,6 +13,22 @@ body {
     min-width: fit-content;
 }
 
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #282828;
+    border-bottom: 1px solid #ebebeb;
+    margin-bottom: 16px;
+    padding-bottom: 5px;
+}
+
+
 footer {
     text-align: center; /* 요소를 어디에 정렬할 것인지 - 콜론으로 구분, 세미콜론으로 마무리 */
     background-color: #1e1e1e; /* 배경 색상 변경 */

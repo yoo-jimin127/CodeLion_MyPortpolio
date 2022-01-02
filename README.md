@@ -80,3 +80,8 @@
     ```
 - ```<section>``` 태그: division과 같은 기능, html 태그를 꾸며주기 위해 묶어주는 태그
     - div를 묶어주는 역할도 함 ex) ```article```
+
+### < About Me 제작하기 >
+- 의미 없는 텍스트로 일단 채워놓는 (디자인을 보기 위해 사용하는) : Lorem ipsum
+- 이탤릭체로 글자를 기울이기 : ```    font-style: italic;```
+- 아래에만 테두리가 생기도록 : ```border-bottom: 1px solid #ebebeb;```
