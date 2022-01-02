@@ -1,7 +1,7 @@
 footer {
     text-align: center; /* 요소를 어디에 정렬할 것인지 - 콜론으로 구분, 세미콜론으로 마무리 */
-    background-color: black; /* 배경 색상 변경 */
-    color: white; /* 글씨 색상 변경 */
+    background-color: #121212; /* 배경 색상 변경 */
+    color: #919191; /* 글씨 색상 변경 */
 }
 
 .big-font {
@@ -10,4 +10,12 @@ footer {
 
 .small-font {
     font-size: 20px;
+}
+
+.mainbox {
+    border: 1px solid #c4c4c4; /* 테두리를 추가할 수 있는 속성 */
+    width: 610px;
+    text-align: center; /* 글자만을 가운데로 정렬 */
+    margin-left: auto;
+    margin-right: auto;
 }
