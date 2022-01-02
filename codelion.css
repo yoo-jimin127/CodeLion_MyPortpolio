@@ -15,7 +15,9 @@ footer {
 .mainbox {
     border: 1px solid #c4c4c4; /* 테두리를 추가할 수 있는 속성 */
     width: 610px;
-    text-align: center; /* 글자만을 가운데로 정렬 */
+    text-align: right; /* 글자만을 가운데로 정렬 */
     margin-left: auto;
     margin-right: auto;
+    padding: 30px; /* 글자와 박스 사이의 간격을 줌 */
+    margin: 30px; /* 박스가 화면에서 얼마나 떨어지게 할 것인지 */
 }
