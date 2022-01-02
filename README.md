@@ -85,3 +85,8 @@
 - 의미 없는 텍스트로 일단 채워놓는 (디자인을 보기 위해 사용하는) : Lorem ipsum
 - 이탤릭체로 글자를 기울이기 : ```    font-style: italic;```
 - 아래에만 테두리가 생기도록 : ```border-bottom: 1px solid #ebebeb;```
+
+### < 나만의 이력서 작성 중 기록 내용 >
+- ```line-height: 16px;```을 통해 줄 간 간격을 조절
+- 각 ```<p>``` 태그를 좌우정렬 하고 싶을 떄 -> ```text-align: left; text-align: right;```로 하면 다른 줄에서 정렬이 됨
+    - ```float```를 사용 : 왼쪽, 오른쪽에 붙어서 동작
