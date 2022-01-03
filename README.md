@@ -5,5 +5,5 @@ HTML과 CSS의 개념을 다잡고, 이를 바탕으로 나의 이력서를 작�
 학습 정리 내용은 본 레포지토리의 RECODE.md에 정리되어 있습니다. <br><br>
 
 ------
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![image](https://user-images.githubusercontent.com/66112716/147905451-c32d8e5f-de9b-4e25-bdbf-0d81bdecfd81.png)
