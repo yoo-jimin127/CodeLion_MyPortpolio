@@ -54,6 +54,7 @@
 - div 박스를 가운데로 정렬하고 싶다면 ? ``` margin-left: auto; margin-right: auto; ``` 를 추가하여 중앙 배치
 
 ### < 박스 쪼개기 >
+![image](https://user-images.githubusercontent.com/66112716/147904131-08fc8db7-077b-43b6-8a68-0a70753e2906.png)
 - ```border```를 추가했을 때 내용물 자체의 크기는 변하지 않음
 - 박스의 전체 크기: (width + 테두리 두께) * (height + 테두리 두께)
 - ```padding```을 추가했을 때는 내용물 자체의 크기가 변함
